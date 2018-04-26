@@ -11,4 +11,7 @@ Go to [Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE](http://www.instructables.c
 ## Add the libraries used in the workshop to the Arduino IDE
 Go to the [importing a .zip Library](https://www.arduino.cc/en/Guide/Libraries#toc4) instructions at Arduino. Follow the instructions to import the libraries in the lib-folder in this repo.
 
+## Download the USB drivers
+Unfortunately the device needs drivers for communication. [You will find the drivers here.](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+
 ### You are now ready to start the workshop
